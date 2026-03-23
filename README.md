@@ -1,14 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Vicky%20Rana&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=A%20Passionate%20Software%20Engineer!!&descAlignY=58&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=180&section=header&text=Hi%20👋%20I'm%20Vicky%20Rana&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=A%20Passionate%20Software%20Engineer!!&descAlignY=58&descSize=18"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E040FB&center=true&vCenter=true&width=600&lines=Building+ML+Models+%7C+Turning+Data+into+Insights;Passionate+Software+Engineer;Python+%7C+Machine+Learning+%7C+Full+Stack" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vickyrana123&label=Profile%20views&color=0e75b6&style=flat" alt="vickyrana123" />
+  <img src="https://komarev.com/ghpvc/?username=vickyrana123&label=Profile%20views&color=e040fb&style=flat" alt="vickyrana123" />
 </p>
 
-<img align="right" alt="coding" width="380" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 <h3>🔗 Connect with me:</h3>
 <p>
@@ -52,5 +60,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=100&section=footer"/>
 </div>
