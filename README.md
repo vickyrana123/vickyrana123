@@ -51,8 +51,6 @@
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/>
 </p>
 
-<br/><br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </div>
