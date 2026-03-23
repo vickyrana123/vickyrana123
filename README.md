@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E040FB&center=true&vCenter=true&width=600&lines=Building+ML+Models+%7C+Turning+Data+into+Insights;Passionate+Software+Engineer;Python+%7C+Machine+Learning+%7C+Full+Stack" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E040FB&center=true&vCenter=true&width=600&lines=+Building+ML+Models+%7C+Turning+Data+into+Insights;Passionate+Software+Engineer;Python+%7C+Machine+Learning+%7C+Full+Stack" alt="Typing SVG" />
   </a>
 </div>
 
