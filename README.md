@@ -4,7 +4,7 @@
 
 <br/>
 
-<table border="0" width="100%">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td valign="top" width="55%">
 
@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=vickyrana123&label=Profile%20views&color=0e75b6&style=flat" alt="vickyrana123" />
 </p>
 
-<h2>🔗 Connect with me:</h2>
+<h3>🔗 Connect with me:</h3>
 <p>
   <a href="https://linkedin.com/in/vicky-rana-125084225" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="45"/>
@@ -59,13 +59,6 @@
 </td>
 </tr>
 </table>
-
-<br/>
-
-<h3 align="left">📊 Top Languages:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyrana123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="top languages" />
-</p>
 
 <br/>
 
