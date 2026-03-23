@@ -4,13 +4,11 @@
 
 <br/>
 
-<table style="border:none;border-collapse:collapse;" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td style="border:none;" valign="top" width="55%">
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vickyrana123&label=Profile%20views&color=0e75b6&style=flat" alt="vickyrana123" />
 </p>
+
+<img align="right" alt="coding" width="380" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 <h3>🔗 Connect with me:</h3>
 <p>
@@ -53,14 +51,7 @@
 <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/>
 </p>
 
-</td>
-<td style="border:none;" valign="top" width="45%" align="center">
-  <img alt="coding" width="100%" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
-</td>
-</tr>
-</table>
-
-<br/>
+<br/><br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
